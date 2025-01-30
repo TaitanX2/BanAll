@@ -25,8 +25,6 @@ HELP_TEXT = """
 
  ⦾ /kickthefools - ᴋɪᴄᴋs ᴛʜᴇ ᴍᴇᴍʙᴇʀs ɪɴ ɢʀᴏᴜᴘs ᴡʜᴏ ᴡᴇʀᴇ ɪɴᴀᴄᴛɪᴠᴇ ғᴏʀ ᴀ ᴍᴏɴᴛʜ.
 
-
-ᴄʀᴇᴅɪᴛ ɢᴏᴇs ᴛᴏ - @STEVE_R0GERS_101
 """
 @app.on_message(filters.command("start"))
 async def _start(_, message): 
